@@ -1,0 +1,26 @@
+{
+  "name": "getMyOpenBitbucketPullRequests",
+  "version": "0.0.1",
+  "description": "Fetches pullrequests from bitbucket where the user is a reviewer and has not approved the pull request.",
+  "main": "getMyOpenBitbucketPullRequests.js",
+  "dependencies": {
+    "prompt": "^0.2.13",
+    "request": "^2.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmodien/getMyOpenBitbucketPullRequests"
+  },
+  "keywords": [
+    "Bitbucket",
+    "pullrequest"
+  ],
+  "author": "Clint Modien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmodien/getMyOpenBitbucketPullRequests/issues"
+  },
+  "homepage": "https://github.com/cmodien/getMyOpenBitbucketPullRequests"
+}
